@@ -1,0 +1,1491 @@
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 20
+18
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 40
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 60
+58
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 80
+78
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 100
+98
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 10
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 20
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 30
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 40
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 50
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 100
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 200
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 300
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 400
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 500
+38
+Simulation starting
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+cmd select_ca agileSD
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 5
+38
+Simulation starting
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 10
+38
+Simulation starting
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 20
+38
+Simulation starting
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 50
+38
+Simulation starting
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 100
+38
+Simulation starting
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 20
+18
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 40
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 60
+58
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 80
+78
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 100
+98
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 10
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 20
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 30
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 40
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 50
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 100
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 200
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 300
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 400
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 500
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 5
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 10
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 20
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 50
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 100
+38
+Simulation starting
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+cmd select_ca cubic
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 20
+18
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 40
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 60
+58
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 80
+78
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Node: 100
+98
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 10
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 20
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 30
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 40
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Flow: 50
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 100
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 200
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 300
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 400
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Packet: 500
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 5
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 10
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 20
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 50
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+
+Nodes: 40 Flows: 20 PPS: 200 Queue: 5 ===> #Queue: 100
+38
+Simulation starting
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+cmd select_ca compound
+

@@ -1,0 +1,1126 @@
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 20
+Received bytes:  22456
+Simulation time:  99.893872065 100.000000000 0.106127935 seconds
+Sent Packets:  1500
+Dropped Packets:  311
+Received Packets:  1362
+-------------------------------------------------------------
+Total energy consumption:  10382.036999999977
+Energy consumption per packet:  7.622640969162979 Joules
+Energy consumption per byte:  0.4623279747060909 Joules
+Throughput:  1798.3885926766834 bits/sec
+Average Delay:  0.1231357926475771 seconds
+Delivery ratio:  0.908
+Drop ratio:  0.20733333333333334
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 40
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 60
+Received bytes:  17588
+Simulation time:  99.990246088 100.000000000 0.009753912 seconds
+Sent Packets:  1205
+Dropped Packets:  252
+Received Packets:  1065
+-------------------------------------------------------------
+Total energy consumption:  9029.198999999991
+Energy consumption per packet:  8.478121126760556 Joules
+Energy consumption per byte:  0.5133726972936088 Joules
+Throughput:  1407.17725483112 bits/sec
+Average Delay:  0.05161967807793417 seconds
+Delivery ratio:  0.8838174273858921
+Drop ratio:  0.2091286307053942
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 80
+Received bytes:  24676
+Simulation time:  99.985222433 100.000000000 0.014777567 seconds
+Sent Packets:  1650
+Dropped Packets:  179
+Received Packets:  1517
+-------------------------------------------------------------
+Total energy consumption:  11898.519000000004
+Energy consumption per packet:  7.843453526697432 Joules
+Energy consumption per byte:  0.48218994164370255 Joules
+Throughput:  1974.3717641102703 bits/sec
+Average Delay:  0.07859843010481218 seconds
+Delivery ratio:  0.9193939393939394
+Drop ratio:  0.10848484848484849
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 100
+Received bytes:  13708
+Simulation time:  99.923900379 100.000000000 0.076099621 seconds
+Sent Packets:  974
+Dropped Packets:  251
+Received Packets:  827
+-------------------------------------------------------------
+Total energy consumption:  12427.017999999998
+Energy consumption per packet:  15.026623941958885 Joules
+Energy consumption per byte:  0.9065522322731251 Joules
+Throughput:  1097.4751744483242 bits/sec
+Average Delay:  0.06239002388149956 seconds
+Delivery ratio:  0.8490759753593429
+Drop ratio:  0.25770020533880905
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 10
+Received bytes:  16228
+Simulation time:  99.997884074 100.000000000 0.002115926 seconds
+Sent Packets:  1073
+Dropped Packets:  106
+Received Packets:  1003
+-------------------------------------------------------------
+Total energy consumption:  8429.321999999995
+Energy consumption per packet:  8.404109670987033 Joules
+Energy consumption per byte:  0.5194307369977813 Joules
+Throughput:  1298.2674703789553 bits/sec
+Average Delay:  0.0460081154845463 seconds
+Delivery ratio:  0.934762348555452
+Drop ratio:  0.09878844361602983
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 20
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 30
+Received bytes:  24172
+Simulation time:  99.966487707 100.000000000 0.033512293 seconds
+Sent Packets:  1669
+Dropped Packets:  260
+Received Packets:  1469
+-------------------------------------------------------------
+Total energy consumption:  15995.567999999997
+Energy consumption per packet:  10.888746085772633 Joules
+Energy consumption per byte:  0.6617395333443653 Joules
+Throughput:  1934.4082645654373 bits/sec
+Average Delay:  0.046069402909462195 seconds
+Delivery ratio:  0.8801677651288197
+Drop ratio:  0.15578190533253444
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 40
+Received bytes:  21988
+Simulation time:  99.916197759 100.000000000 0.083802241 seconds
+Sent Packets:  1621
+Dropped Packets:  337
+Received Packets:  1336
+-------------------------------------------------------------
+Total energy consumption:  9861.161000000007
+Energy consumption per packet:  7.381108532934137 Joules
+Energy consumption per byte:  0.4484792159359654 Joules
+Throughput:  1760.515351317553 bits/sec
+Average Delay:  0.0642046089970059 seconds
+Delivery ratio:  0.824182603331277
+Drop ratio:  0.20789636027143737
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 50
+Received bytes:  19392
+Simulation time:  99.912447366 100.000000000 0.087552634 seconds
+Sent Packets:  1463
+Dropped Packets:  483
+Received Packets:  1141
+-------------------------------------------------------------
+Total energy consumption:  8266.866000000002
+Energy consumption per packet:  7.24528133216477 Joules
+Energy consumption per byte:  0.4263029084158417 Joules
+Throughput:  1552.719446774281 bits/sec
+Average Delay:  0.1013189790841368 seconds
+Delivery ratio:  0.7799043062200957
+Drop ratio:  0.33014354066985646
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 100
+Received bytes:  17648
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1215
+Dropped Packets:  198
+Received Packets:  1083
+-------------------------------------------------------------
+Total energy consumption:  9251.360999999999
+Energy consumption per packet:  8.542346260387811 Joules
+Energy consumption per byte:  0.5242158318223028 Joules
+Throughput:  1412.0467365907054 bits/sec
+Average Delay:  0.04819659958910439 seconds
+Delivery ratio:  0.891358024691358
+Drop ratio:  0.16296296296296298
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 200
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 300
+Received bytes:  17584
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1212
+Dropped Packets:  198
+Received Packets:  1079
+-------------------------------------------------------------
+Total energy consumption:  9198.391000000001
+Energy consumption per packet:  8.52492215013902 Joules
+Energy consumption per byte:  0.5231114080982713 Joules
+Throughput:  1406.9259868659883 bits/sec
+Average Delay:  0.04816213786283603 seconds
+Delivery ratio:  0.8902640264026402
+Drop ratio:  0.16336633663366337
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 400
+Received bytes:  17584
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1212
+Dropped Packets:  198
+Received Packets:  1079
+-------------------------------------------------------------
+Total energy consumption:  9198.391000000001
+Energy consumption per packet:  8.52492215013902 Joules
+Energy consumption per byte:  0.5231114080982713 Joules
+Throughput:  1406.9259868659883 bits/sec
+Average Delay:  0.04816213786283603 seconds
+Delivery ratio:  0.8902640264026402
+Drop ratio:  0.16336633663366337
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 500
+Received bytes:  19424
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1327
+Dropped Packets:  200
+Received Packets:  1194
+-------------------------------------------------------------
+Total energy consumption:  10782.484000000015
+Energy consumption per packet:  9.03055611390286 Joules
+Energy consumption per byte:  0.5551114085667224 Joules
+Throughput:  1554.1475414516015 bits/sec
+Average Delay:  0.05126162238693472 seconds
+Delivery ratio:  0.8997739261492087
+Drop ratio:  0.15071590052750566
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 1
+Received bytes:  15988
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1103
+Dropped Packets:  179
+Received Packets:  982
+-------------------------------------------------------------
+Total energy consumption:  7997.228999999999
+Energy consumption per packet:  8.143817718940936 Joules
+Energy consumption per byte:  0.5002019639729797 Joules
+Throughput:  1279.2272906058588 bits/sec
+Average Delay:  0.04788962710896127 seconds
+Delivery ratio:  0.8902991840435177
+Drop ratio:  0.16228467815049863
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 2
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 3
+Received bytes:  6124
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  476
+Dropped Packets:  223
+Received Packets:  358
+-------------------------------------------------------------
+Total energy consumption:  3189.421000000001
+Energy consumption per packet:  8.908997206703914 Joules
+Energy consumption per byte:  0.5208068256041805 Joules
+Throughput:  489.9917392838554 bits/sec
+Average Delay:  0.03898919298882689 seconds
+Delivery ratio:  0.7521008403361344
+Drop ratio:  0.4684873949579832
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 4
+Received bytes:  17276
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1188
+Dropped Packets:  234
+Received Packets:  1055
+-------------------------------------------------------------
+Total energy consumption:  8989.160000000003
+Energy consumption per packet:  8.520530805687207 Joules
+Energy consumption per byte:  0.5203264644593658 Joules
+Throughput:  1382.282378815788 bits/sec
+Average Delay:  0.042082665385781974 seconds
+Delivery ratio:  0.8880471380471381
+Drop ratio:  0.19696969696969696
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 5
+Received bytes:  16844
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1155
+Dropped Packets:  228
+Received Packets:  1028
+-------------------------------------------------------------
+Total energy consumption:  8650.255999999992
+Energy consumption per packet:  8.41464591439688 Joules
+Energy consumption per byte:  0.5135511754927566 Joules
+Throughput:  1347.7173181739483 bits/sec
+Average Delay:  0.043338497943579746 seconds
+Delivery ratio:  0.8900432900432901
+Drop ratio:  0.1974025974025974
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 5
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 10
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 20
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 50
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 100
+Received bytes:  17600
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  203
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9216.721999999998
+Energy consumption per packet:  8.53400185185185 Joules
+Energy consumption per byte:  0.5236773863636363 Joules
+Throughput:  1408.2061742971675 bits/sec
+Average Delay:  0.04882170739814818 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.16804635761589404
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 20
+Received bytes:  21052
+Simulation time:  99.893872065 100.000000000 0.106127935 seconds
+Sent Packets:  1416
+Dropped Packets:  294
+Received Packets:  1284
+-------------------------------------------------------------
+Total energy consumption:  9405.556000000013
+Energy consumption per packet:  7.325199376947051 Joules
+Energy consumption per byte:  0.44677731331940024 Joules
+Throughput:  1685.9492631381163 bits/sec
+Average Delay:  0.0584279386199377 seconds
+Delivery ratio:  0.9067796610169492
+Drop ratio:  0.2076271186440678
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 40
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 60
+Received bytes:  5252
+Simulation time:  99.990246088 100.000000000 0.009753912 seconds
+Sent Packets:  415
+Dropped Packets:  248
+Received Packets:  294
+-------------------------------------------------------------
+Total energy consumption:  2344.5250000000005
+Energy consumption per packet:  7.974574829931974 Joules
+Energy consumption per byte:  0.44640613099771526 Joules
+Throughput:  420.2009860344009 bits/sec
+Average Delay:  0.04329969062585029 seconds
+Delivery ratio:  0.708433734939759
+Drop ratio:  0.5975903614457831
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 80
+Received bytes:  22796
+Simulation time:  99.985222433 100.000000000 0.014777567 seconds
+Sent Packets:  1526
+Dropped Packets:  147
+Received Packets:  1405
+-------------------------------------------------------------
+Total energy consumption:  10305.729999999983
+Energy consumption per packet:  7.335039145907461 Joules
+Energy consumption per byte:  0.4520850149148966 Joules
+Throughput:  1823.9495353646346 bits/sec
+Average Delay:  0.06609858928185051 seconds
+Delivery ratio:  0.9207077326343381
+Drop ratio:  0.0963302752293578
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 100
+Received bytes:  20272
+Simulation time:  99.923900379 100.000000000 0.076099621 seconds
+Sent Packets:  1385
+Dropped Packets:  224
+Received Packets:  1243
+-------------------------------------------------------------
+Total energy consumption:  13649.406000000004
+Energy consumption per packet:  10.981018503620277 Joules
+Energy consumption per byte:  0.673313239936859 Joules
+Throughput:  1622.9950931147089 bits/sec
+Average Delay:  0.040559490152051444 seconds
+Delivery ratio:  0.8974729241877256
+Drop ratio:  0.16173285198555956
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 10
+Received bytes:  16820
+Simulation time:  99.997884074 100.000000000 0.002115926 seconds
+Sent Packets:  1106
+Dropped Packets:  86
+Received Packets:  1040
+-------------------------------------------------------------
+Total energy consumption:  8962.455999999996
+Energy consumption per packet:  8.61774615384615 Joules
+Energy consumption per byte:  0.5328451843043993 Joules
+Throughput:  1345.628472502713 bits/sec
+Average Delay:  0.04786032143076926 seconds
+Delivery ratio:  0.9403254972875226
+Drop ratio:  0.07775768535262206
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 20
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 30
+Received bytes:  17364
+Simulation time:  99.966487707 100.000000000 0.033512293 seconds
+Sent Packets:  1242
+Dropped Packets:  266
+Received Packets:  1048
+-------------------------------------------------------------
+Total energy consumption:  8156.499999999999
+Energy consumption per packet:  7.782919847328244 Joules
+Energy consumption per byte:  0.4697362358903478 Joules
+Throughput:  1389.5856820252463 bits/sec
+Average Delay:  0.03866345714599238 seconds
+Delivery ratio:  0.8438003220611916
+Drop ratio:  0.214170692431562
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 40
+Received bytes:  20652
+Simulation time:  99.916197759 100.000000000 0.083802241 seconds
+Sent Packets:  1499
+Dropped Packets:  375
+Received Packets:  1236
+-------------------------------------------------------------
+Total energy consumption:  8500.579000000003
+Energy consumption per packet:  6.877491100323628 Joules
+Energy consumption per byte:  0.4116104493511526 Joules
+Throughput:  1653.5457083595647 bits/sec
+Average Delay:  0.09626720576779939 seconds
+Delivery ratio:  0.8245496997998666
+Drop ratio:  0.2501667778519013
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 50
+Received bytes:  20692
+Simulation time:  99.912447366 100.000000000 0.087552634 seconds
+Sent Packets:  1542
+Dropped Packets:  458
+Received Packets:  1223
+-------------------------------------------------------------
+Total energy consumption:  8638.829999999993
+Energy consumption per packet:  7.063638593622234 Joules
+Energy consumption per byte:  0.4174961337715055 Joules
+Throughput:  1656.8105813043228 bits/sec
+Average Delay:  0.08565632740719546 seconds
+Delivery ratio:  0.7931258106355382
+Drop ratio:  0.29701686121919585
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 100
+Received bytes:  15576
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1073
+Dropped Packets:  213
+Received Packets:  949
+-------------------------------------------------------------
+Total energy consumption:  7726.956000000001
+Energy consumption per packet:  8.142208640674395 Joules
+Energy consumption per byte:  0.4960808936825887 Joules
+Throughput:  1246.2624642529934 bits/sec
+Average Delay:  0.04109514416859855 seconds
+Delivery ratio:  0.8844361602982292
+Drop ratio:  0.19850885368126747
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 200
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 300
+Received bytes:  14504
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1000
+Dropped Packets:  228
+Received Packets:  882
+-------------------------------------------------------------
+Total energy consumption:  6846.381
+Energy consumption per packet:  7.762336734693878 Joules
+Energy consumption per byte:  0.47203399062327633 Joules
+Throughput:  1160.4899063639841 bits/sec
+Average Delay:  0.043694013806122485 seconds
+Delivery ratio:  0.882
+Drop ratio:  0.228
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 400
+Received bytes:  15672
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1086
+Dropped Packets:  215
+Received Packets:  955
+-------------------------------------------------------------
+Total energy consumption:  7764.800000000007
+Energy consumption per packet:  8.130680628272259 Joules
+Energy consumption per byte:  0.49545686574783093 Joules
+Throughput:  1253.9435888400687 bits/sec
+Average Delay:  0.04002835140628281 seconds
+Delivery ratio:  0.8793738489871087
+Drop ratio:  0.19797421731123388
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 500
+Received bytes:  16376
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1133
+Dropped Packets:  272
+Received Packets:  999
+-------------------------------------------------------------
+Total energy consumption:  8305.389000000003
+Energy consumption per packet:  8.313702702702706 Joules
+Energy consumption per byte:  0.5071683561309235 Joules
+Throughput:  1310.2718358119555 bits/sec
+Average Delay:  0.04484964100700705 seconds
+Delivery ratio:  0.881729920564872
+Drop ratio:  0.24007060900264784
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 1
+Received bytes:  17740
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1226
+Dropped Packets:  186
+Received Packets:  1093
+-------------------------------------------------------------
+Total energy consumption:  9374.34800000001
+Energy consumption per packet:  8.576713632204951 Joules
+Energy consumption per byte:  0.5284299887260434 Joules
+Throughput:  1419.407814319986 bits/sec
+Average Delay:  0.04157292378499534 seconds
+Delivery ratio:  0.8915171288743883
+Drop ratio:  0.15171288743882544
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 2
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 3
+Received bytes:  16892
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1165
+Dropped Packets:  242
+Received Packets:  1034
+-------------------------------------------------------------
+Total energy consumption:  8724.324999999992
+Energy consumption per packet:  8.437451644100571 Joules
+Energy consumption per byte:  0.5164767345488984 Joules
+Throughput:  1351.557880467486 bits/sec
+Average Delay:  0.04326344439071556 seconds
+Delivery ratio:  0.8875536480686695
+Drop ratio:  0.20772532188841203
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 4
+Received bytes:  13956
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  973
+Dropped Packets:  176
+Received Packets:  849
+-------------------------------------------------------------
+Total energy consumption:  6623.277000000008
+Energy consumption per packet:  7.801268551236759 Joules
+Energy consumption per byte:  0.474582760103182 Joules
+Throughput:  1116.643486846095 bits/sec
+Average Delay:  0.04789377566077737 seconds
+Delivery ratio:  0.8725590955806783
+Drop ratio:  0.18088386433710174
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 5
+Received bytes:  13956
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  973
+Dropped Packets:  174
+Received Packets:  849
+-------------------------------------------------------------
+Total energy consumption:  6623.277000000008
+Energy consumption per packet:  7.801268551236759 Joules
+Energy consumption per byte:  0.474582760103182 Joules
+Throughput:  1116.643486846095 bits/sec
+Average Delay:  0.04789377566077737 seconds
+Delivery ratio:  0.8725590955806783
+Drop ratio:  0.17882836587872558
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 5
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 10
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 20
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 50
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 100
+Received bytes:  19032
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1307
+Dropped Packets:  289
+Received Packets:  1165
+-------------------------------------------------------------
+Total energy consumption:  10491.201000000001
+Energy consumption per packet:  9.005322746781117 Joules
+Energy consumption per byte:  0.5512400693568726 Joules
+Throughput:  1522.78294938771 bits/sec
+Average Delay:  0.040372607110729625 seconds
+Delivery ratio:  0.891354246365723
+Drop ratio:  0.22111706197398623
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 20
+Received bytes:  23796
+Simulation time:  99.893872065 100.000000000 0.106127935 seconds
+Sent Packets:  1571
+Dropped Packets:  255
+Received Packets:  1446
+-------------------------------------------------------------
+Total energy consumption:  11532.867000000006
+Energy consumption per packet:  7.975703319502078 Joules
+Energy consumption per byte:  0.4846556984367123 Joules
+Throughput:  1905.702482692125 bits/sec
+Average Delay:  0.1187388939799448 seconds
+Delivery ratio:  0.9204328453214513
+Drop ratio:  0.16231699554423934
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 40
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 60
+Received bytes:  16772
+Simulation time:  99.990246088 100.000000000 0.009753912 seconds
+Sent Packets:  1141
+Dropped Packets:  241
+Received Packets:  1017
+-------------------------------------------------------------
+Total energy consumption:  8501.739000000005
+Energy consumption per packet:  8.35962536873157 Joules
+Energy consumption per byte:  0.5069007274028146 Joules
+Throughput:  1341.8908868562398 bits/sec
+Average Delay:  0.05548850508652901 seconds
+Delivery ratio:  0.8913234005258545
+Drop ratio:  0.2112182296231376
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 80
+Received bytes:  22900
+Simulation time:  99.985222433 100.000000000 0.014777567 seconds
+Sent Packets:  1540
+Dropped Packets:  180
+Received Packets:  1406
+-------------------------------------------------------------
+Total energy consumption:  10225.955999999996
+Energy consumption per packet:  7.273083926031292 Joules
+Energy consumption per byte:  0.4465482969432313 Joules
+Throughput:  1832.2707650399252 bits/sec
+Average Delay:  0.06300183294167855 seconds
+Delivery ratio:  0.912987012987013
+Drop ratio:  0.11688311688311688
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Node: 100
+Received bytes:  38952
+Simulation time:  99.923900379 100.000000000 0.076099621 seconds
+Sent Packets:  2568
+Dropped Packets:  272
+Received Packets:  2409
+-------------------------------------------------------------
+Total energy consumption:  35663.13399999997
+Energy consumption per packet:  14.804123702781224 Joules
+Energy consumption per byte:  0.9155661840213588 Joules
+Throughput:  3118.5331919398254 bits/sec
+Average Delay:  0.04965344454545461 seconds
+Delivery ratio:  0.9380841121495327
+Drop ratio:  0.1059190031152648
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 10
+Received bytes:  17212
+Simulation time:  99.997884074 100.000000000 0.002115926 seconds
+Sent Packets:  1140
+Dropped Packets:  135
+Received Packets:  1066
+-------------------------------------------------------------
+Total energy consumption:  9136.098
+Energy consumption per packet:  8.570448405253284 Joules
+Energy consumption per byte:  0.530798164071578 Joules
+Throughput:  1376.9891360711474 bits/sec
+Average Delay:  0.04885494940619129 seconds
+Delivery ratio:  0.9350877192982456
+Drop ratio:  0.11842105263157894
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 20
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 30
+Received bytes:  42136
+Simulation time:  99.966487707 100.000000000 0.033512293 seconds
+Sent Packets:  2787
+Dropped Packets:  280
+Received Packets:  2592
+-------------------------------------------------------------
+Total energy consumption:  37149.66099999995
+Energy consumption per packet:  14.332430941358005 Joules
+Energy consumption per byte:  0.881660836339471 Joules
+Throughput:  3372.010037883885 bits/sec
+Average Delay:  0.054127496268132645 seconds
+Delivery ratio:  0.930032292787944
+Drop ratio:  0.1004664513814137
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 40
+Received bytes:  22260
+Simulation time:  99.916197759 100.000000000 0.083802241 seconds
+Sent Packets:  1617
+Dropped Packets:  427
+Received Packets:  1347
+-------------------------------------------------------------
+Total energy consumption:  9878.556000000017
+Energy consumption per packet:  7.3337461024499015 Joules
+Energy consumption per byte:  0.4437805929919145 Joules
+Throughput:  1782.2936019796587 bits/sec
+Average Delay:  0.053970882974016386 seconds
+Delivery ratio:  0.8330241187384044
+Drop ratio:  0.26406926406926406
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Flow: 50
+Received bytes:  21900
+Simulation time:  99.912447366 100.000000000 0.087552634 seconds
+Sent Packets:  1638
+Dropped Packets:  373
+Received Packets:  1321
+-------------------------------------------------------------
+Total energy consumption:  9882.09900000001
+Energy consumption per packet:  7.480771385314163 Joules
+Energy consumption per byte:  0.4512373972602744 Joules
+Throughput:  1753.5352663137767 bits/sec
+Average Delay:  0.04671115946707037 seconds
+Delivery ratio:  0.8064713064713065
+Drop ratio:  0.2277167277167277
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 100
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 200
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 300
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  590
+Dropped Packets:  211
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.7677966101694915
+Drop ratio:  0.3576271186440678
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 400
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  590
+Dropped Packets:  211
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.7677966101694915
+Drop ratio:  0.3576271186440678
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> #Packet: 500
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  590
+Dropped Packets:  211
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.7677966101694915
+Drop ratio:  0.3576271186440678
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 1
+Received bytes:  14748
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1037
+Dropped Packets:  161
+Received Packets:  909
+-------------------------------------------------------------
+Total energy consumption:  7115.235000000005
+Energy consumption per packet:  7.827541254125419 Joules
+Energy consumption per byte:  0.482454231082181 Joules
+Throughput:  1180.0127646894675 bits/sec
+Average Delay:  0.05000643265346529 seconds
+Delivery ratio:  0.8765670202507232
+Drop ratio:  0.15525554484088716
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 2
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 3
+Received bytes:  16404
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1138
+Dropped Packets:  313
+Received Packets:  999
+-------------------------------------------------------------
+Total energy consumption:  8348.084000000003
+Energy consumption per packet:  8.356440440440442 Joules
+Energy consumption per byte:  0.5089053889295295 Joules
+Throughput:  1312.5121638165192 bits/sec
+Average Delay:  0.05152082630130134 seconds
+Delivery ratio:  0.8778558875219684
+Drop ratio:  0.2750439367311072
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 4
+Received bytes:  17652
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1208
+Dropped Packets:  270
+Received Packets:  1080
+-------------------------------------------------------------
+Total energy consumption:  9324.320000000003
+Energy consumption per packet:  8.633629629629633 Joules
+Energy consumption per byte:  0.5282302288692501 Joules
+Throughput:  1412.3667834485002 bits/sec
+Average Delay:  0.04872940322870368 seconds
+Delivery ratio:  0.8940397350993378
+Drop ratio:  0.22350993377483444
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> Coverage_Area: 5
+Received bytes:  17092
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  1178
+Dropped Packets:  273
+Received Packets:  1045
+-------------------------------------------------------------
+Total energy consumption:  8877.387
+Energy consumption per packet:  8.495107177033493 Joules
+Energy consumption per byte:  0.5193884273344255 Joules
+Throughput:  1367.5602233572267 bits/sec
+Average Delay:  0.04738961992057416 seconds
+Delivery ratio:  0.8870967741935484
+Drop ratio:  0.23174872665534804
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 5
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 10
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 20
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 50
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+
+Nodes: 40 Flows: 20 PPS: 200 Area: 2 ===> queue_size: 100
+Received bytes:  7640
+Simulation time:  99.985359083 100.000000000 0.014640917 seconds
+Sent Packets:  595
+Dropped Packets:  216
+Received Packets:  453
+-------------------------------------------------------------
+Total energy consumption:  4505.533999999999
+Energy consumption per packet:  9.945991169977923 Joules
+Energy consumption per byte:  0.5897295811518323 Joules
+Throughput:  611.2894983880886 bits/sec
+Average Delay:  0.04660032302869756 seconds
+Delivery ratio:  0.761344537815126
+Drop ratio:  0.3630252100840336
+

@@ -153,7 +153,7 @@ static void hstcp_cong_avoid(struct sock *sk, u32 adk, u32 rtt,
 				tp->snd_cwnd++;
 			}
 		}
-		tp->snd_cwnd = temp + 1;
+		
 
 		
 	}
